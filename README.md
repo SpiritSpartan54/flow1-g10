@@ -11,7 +11,7 @@ Este es el flow 1 que representa el primer ejecicio de NodeRed para uso del curs
  - Sofware
 	 - [Ubuntu](https://ubuntu.com/) versión 20.04
 	 - [Node-RED](https://nodered.org/)
-	 - [Git](https://git-scm.com/)
+	 - [GitHub-Desktop](https://git-scm.com/)
  - Hardware
 	 - PC o Notebook (min. recomendado: intel i5 o amd ryzen 5).
 	 - Min 8 GB de RAM.
@@ -48,6 +48,6 @@ Para observar el resutlado de este flow, sólo es necesario abrir la pestaña **
 
 ## Créditos
 
-[GitHub](https://github.com/SpiritSpartan54/flow1-g10)
+[Hugo Bravo - GitHub](https://github.com/SpiritSpartan54/flow1-g10)
  
 
